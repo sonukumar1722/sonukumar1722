@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Rule-Engine-Project<br>I'm looking to collaborate on open-source projects.<br>I'm looking for help with DevOps.<br>I'm currently learning Azure.<br>Ask me about technology, engineering, programming, and Interview.<br>Fun facts: 
+I'm currently working on a ...br>I'm looking to collaborate on open-source projects.<br>I'm looking for help with DevOps.<br>I'm currently learning Azure.<br>Ask me about technology, engineering, programming, and Interview.<br>Fun facts: 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonukumar287) 
